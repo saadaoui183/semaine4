@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(233, 224, 208);
+}
+.container{
+    background-color: white;
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+}
+.maison{
+    display: flex;
+    flex-direction: row;
+}
+
+.house1{
+display: flex;
+justify-items: center;
+flex-direction: row;
+}
+.house{
+width: 75px;
+padding: 20px;
+}
+h3{
+justify-items: flex-start;
+flex-direction: row;
+}
+.items{
+    background-color: white;
+    display: flex;
+
+}
+.arbre{
+    margin: 50px;
+}
+.tree{
+    width: 200px;
+}
+.plantes{
+    margin: 20px;
+}
+.wheat{
+    width: 100px;
+    padding: 20px;
+}
